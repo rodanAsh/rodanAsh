@@ -12,19 +12,18 @@ I'm Aakash, a passionate frontend developer with a keen interest in creating del
 
 ## 🛠️ Technologies & Tools
 
-- HTML5, CSS3, JavaScript
-- React.js
-- Bootstrap, sass
-- Git, GitHub Actions
+- HTML5, CSS3, JavaScript, Typescript
+- React.js, JQuery, Redux Tool Kit
+- Tailwind, sass
+- Git, GitHub, VS Code, Canva
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&hide_border=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodanAsh&show_icons=true&hide_title=true&hide_border=true)
 
 ## 📫 Let's Connect
 
-- Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourname/)
+- LinkedIn: https://www.linkedin.com/in/aakashash/
 - Portfolio: [Your Portfolio Website](https://www.yourportfolio.com)
 
 Thanks for visiting! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.
