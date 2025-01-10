@@ -1,6 +1,6 @@
-# Hi there! 👋
+# Hi there! 👋, I'm Aakash
 
-I'm Aakash, a passionate frontend developer with a keen interest in creating delightful user experiences. I specialize in building responsive and performant web applications using modern technologies.
+A passionate Web developer with a keen interest in creating delightful user experiences. I specialize in building responsive and performant web applications using modern technologies.
 
 ## 🚀 Quick Overview
 
