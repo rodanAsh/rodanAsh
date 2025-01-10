@@ -10,14 +10,6 @@ I'm Aakash, a passionate frontend developer with a keen interest in creating del
 - 🤔 I’m interested in designing swashbuckling UI using React library and i'm an aspiring full-stack developer.
 - 💬 Ask me about frontend development, web accessibility, or my favorite coding playlists!
 
-## 🛠️ Technologies & Tools
-
-- HTML5, CSS3, JavaScript, Typescript
-- React.js, JQuery, Redux Tool Kit
-- Tailwind, sass
-- Git, GitHub, VS Code, Canva
-
-
 <h3>When I code, I rely on</h3>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
